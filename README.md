@@ -13,11 +13,10 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ---
 
-<!--
+
 ## 🐍 Snake Game
 ![Snake animation](https://github.com/theblankmann/theblankmann/blob/output/snake.svg)
 
--->
 ---
 
 ## 📊 Estatísticas
