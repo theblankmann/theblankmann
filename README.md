@@ -13,7 +13,7 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+The+blank;I'm+**+years+old;I+study+analysis+and+systems+development+at+TESTE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+The+blank;I'm+**+years+old;I+study+analysis+and+systems+development;At+TESTE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 ---
 
 ## 🐍 Snake Game
