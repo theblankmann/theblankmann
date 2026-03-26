@@ -22,10 +22,10 @@ Aqui você encontra meus projetos, estudos e experimentos.
 ---
 
 ## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theblankmann&layout=compact&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theblankmann&show_icons=true&theme=radical)
-
+<div id="my-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuseap&theme=aura_dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuseap&layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,HTML,CSS,Dockerfile"/>
+</div>
 ---
 
 ## 🛠️ Tecnologias que uso
