@@ -27,6 +27,16 @@ Aqui você encontra meus projetos, estudos e experimentos.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblankmann &layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile"/>
 </div>
 ---
+## Status
+
+![Status] (https://SEU-PROJETO.vercel.app/api?username=SEU_USER
+&show_icons=true
+&bg_color=0a0f1c
+&title_color=3b82f6
+&text_color=a5b4fc
+&icon_color=60a5fa
+&border_color=1f2937)
+---
 
 ## 🛠️ Tecnologias que uso
 - 💻 JavaScript | TypeScript | Python
