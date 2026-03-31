@@ -30,7 +30,7 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ## Stats
 
-![Stats](https://readme-stats-black-two.vercel.app/api?username=theblankmann&show_icons=true&bg_color=0a0f1c&title_color=3b82f6&text_color=a5b4fc&icon_color=60a5fa&border_color=1f2937&count_private=true)
+![Stats](https://readme-stats-black-two.vercel.app/api?username=theblankmann&show_icons=true&bg_color=0a0f1c&title_color=3b82f6&text_color=a5b4fc&icon_color=60a5fa&border_color=1f2937)
 
 ---
 
