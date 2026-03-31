@@ -23,14 +23,14 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ## 📊 Estatísticas
 <div id="my-stats">
-  <img height="180em" src="https://readme-stats-black-two.vercel.app/api?username=emersongeovane&theme=aura_dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://readme-stats-black-two.vercel.app/api?username=theblankmann&theme=aura_dark&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblankmann &layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile"/>
 </div>
 ---
 
 ## Stats
 
-![Stats](https://readme-stats-black-two.vercel.app/api?username=emersongeovane&show_icons=true&bg_color=0a0f1c&title_color=3b82f6&text_color=a5b4fc&icon_color=60a5fa&border_color=1f2937&count_private=true)
+![Stats](https://readme-stats-black-two.vercel.app/api?username=theblankmann&show_icons=true&bg_color=0a0f1c&title_color=3b82f6&text_color=a5b4fc&icon_color=60a5fa&border_color=1f2937&count_private=true)
 
 ---
 
