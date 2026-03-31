@@ -30,7 +30,10 @@ Aqui você encontra meus projetos, estudos e experimentos.
 
 ## Stats
 
-![Stats](https://readme-stats-black-two.vercel.app/api?username=theblankmann&theme=aura_dark$show_icons=true&count_private=true)
+<p align="center">
+  <img height="180em" src="https://readme-stats-black-two.vercel.app/api?username=theblankmann&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://readme-stats-black-two.vercel.app/api/top-langs/?username=theblankmann&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
