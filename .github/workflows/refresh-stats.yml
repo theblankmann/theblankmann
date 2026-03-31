@@ -1,0 +1,15 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping stats API
+        run: |
+          curl -s "https://readme-stats-black-two.vercel.app/api?username=theblankmann&count_private=true&include_all_commits=true&cache_seconds=0" > /dev/null
