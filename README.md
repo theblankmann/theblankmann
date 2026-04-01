@@ -1,16 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, welcome!
-
-Sou apaixonado por tecnologia, programação e aprendizado contínuo. 🚀  
-Aqui você encontra meus projetos, estudos e experimentos.
-
----
-
 ## 🎬 Apresentação
-<!-- Você pode colocar um GIF ou imagem aqui -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300">
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+The+blank;I'm+**+years+old;I+study+analysis+and+systems+development;At+TESTE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
@@ -19,19 +9,13 @@ Aqui você encontra meus projetos, estudos e experimentos.
 ## 🐍 Snake Game
 ![Snake animation](https://github.com/theblankmann/theblankmann/blob/output/github-snake-dark.svg)
 
----
 
-## 📊 Estatísticas
-<div id="my-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblankmann &layout=compact&theme=aura_dark&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile, JSON"/>
-</div>
 ---
-
 ## Stats
 
 <p align="center">
   <img height="180em" src="https://readme-stats-black-two.vercel.app/api?username=theblankmann&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://readme-stats-black-two.vercel.app/api/top-langs/?username=theblankmann&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://readme-stats-black-two.vercel.app/api/top-langs/?username=theblankmann&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile,JSON"/>
 </p>
 
 ---
