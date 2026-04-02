@@ -14,7 +14,7 @@
 ## Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api?username=emersongeovane&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=60"/>
+  <img height="180em" src="https://github-readme-stats-geovane.vercel.app/api?username=emersongeovane&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=0"/>
   <img height="180em" src="https://readme-stats-black-two.vercel.app/api/top-langs/?username=theblankmann&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&hide=Verilog,SystemVerilog,Jupyter%20Notebook,Coq,ASP.NET,CSS,Dockerfile,JSON"/>
 </p>
 
